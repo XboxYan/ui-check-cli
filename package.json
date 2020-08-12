@@ -1,0 +1,20 @@
+{
+  "name": "ui-check-cli",
+  "version": "1.0.0",
+  "description": "ui check",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ui-check"
+  ],
+  "bin": {
+    "ui-check": "index.js"
+  },
+  "author": "xboxyan",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
