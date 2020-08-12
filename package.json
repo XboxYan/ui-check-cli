@@ -16,5 +16,10 @@
   "license": "ISC",
   "dependencies": {
     "inquirer": "^7.3.3"
-  }
+  },
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/xboxyan/ui-check-cli"
+	},
+	"homepage": "https://github.com/xboxyan/ui-check-cli/README.md"
 }
